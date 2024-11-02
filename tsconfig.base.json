@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@fer-dev/shared-ui": ["libs/shared-ui/src/index.ts"]
+      "@fer-dev/shared-ui": ["libs/shared-ui/src/index.ts"],
+      "@fer-dev/ts-utils": ["libs/ts-utils/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
